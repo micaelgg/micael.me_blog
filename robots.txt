@@ -1,1 +1,1 @@
-Sitemap: micael.me/micael.me_blog/sitemap.xml
+Sitemap: https://micael.me/micael.me_blog/sitemap.xml
