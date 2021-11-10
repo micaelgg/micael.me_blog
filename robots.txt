@@ -1,1 +1,1 @@
-Sitemap: https://micaelgg.github.io/micael.me_blog/sitemap.xml
+Sitemap: micael.me/micael.me/sitemap.xml
