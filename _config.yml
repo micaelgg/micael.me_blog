@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Micael.me
+description: 
 github_username: micaelgg
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "micael.me_blog"
@@ -59,6 +59,7 @@ show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
+G-ZT0XCTPJN6
 
 exclude:
   - docker-compose.yml
