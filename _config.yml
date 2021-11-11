@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Micael.me
-description: 
+title: fastpages
+description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: micaelgg
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "micael.me_blog"
@@ -34,7 +34,7 @@ url: "https://micael.me" # the base hostname & protocol for your site, e.g. http
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "" # the subpath of your site, e.g. "/blog".
+baseurl: "/micael.me_blog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
@@ -59,7 +59,6 @@ show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
-G-ZT0XCTPJN6
 
 exclude:
   - docker-compose.yml
