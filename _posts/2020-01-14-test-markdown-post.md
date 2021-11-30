@@ -47,7 +47,7 @@ And a numbered list:
 
 ## Images
 
-![]({{ site.baseurl }}/images/logo.png "fast.ai's logo")
+![](https://m.media-amazon.com/images/I/61pIaAE-1GL._AC_SS450_.jpg)
 
 ## Code
 
